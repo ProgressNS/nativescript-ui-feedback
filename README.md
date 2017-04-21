@@ -8,7 +8,10 @@ Progress NativeScript UI is a suite of UI components targeting the NativeScript 
 ## Getting started
 For more information on how to use Progress NativeScript UI, please visit the documentation website here [http://docs.telerik.com/devtools/nativescript-ui](http://docs.telerik.com/devtools/nativescript-ui).
 
-You can also take a look at the SDK samples application which is available on GitHub and contains simple scenarios covering all features of the components in Progress NativeScript UI: [http://www.github.com/telerik/nativescript-ui-samples](http://www.github.com/telerik/nativescript-ui-samples).
+You can also take a look at the SDK samples and SDK Angular samples applications which are available on GitHub and contain simple scenarios covering all features of the components in Progress NativeScript UI:
+- [http://www.github.com/telerik/nativescript-ui-samples](http://www.github.com/telerik/nativescript-ui-samples)
+- [http://www.github.com/telerik/nativescript-ui-samples-angular](http://www.github.com/telerik/nativescript-ui-samples-angular)
+
 > The SDK Examples application depends on the *Pro* version of the plugin.
 
 ## Feedback
