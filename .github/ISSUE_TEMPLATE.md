@@ -7,7 +7,7 @@
 letter.
 
 ### Which platform(s) does your issue occur on?
-> iOS/Android/Both
+> iOS/Android/Both (if applicable tell us the specific version of the platform)
 
 ### Please provide the following version numbers that your issue occurs with:
 - **Progress NativeScript UI version:** (look for the version number of nativescript-telerik-ui/-pro in the `package.json` file of your
