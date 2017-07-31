@@ -1,3 +1,9 @@
+<!--
+PLEASE HELP US PROCESS GITHUB ISSUES FASTER BY PROVIDING THE FOLLOWING INFORMATION.
+
+If the below information is not provided we may not be able to respond and/or assist you in time and your report maybe closed without investigation.
+-->
+
 ## Please, provide the details below:
 
 ### Did you verify this is a real problem by searching [Stack Overflow](http://stackoverflow.com/questions/tagged/nativescript)?
