@@ -4,6 +4,8 @@ PLEASE HELP US PROCESS GITHUB ISSUES FASTER BY PROVIDING THE FOLLOWING INFORMATI
 If the below information is not provided we may not be able to respond and/or assist you in time and your report maybe closed without investigation.
 -->
 
+> Please take a minute to read our [NativeScript Code of Conduct](https://github.com/NativeScript/codeofconduct) before proceeding with posting issues or discussing. The purpose of this guide is to make communication and cooperation within our forums a pleasure for you and the other members.
+
 ## Please, provide the details below:
 
 ### Did you verify this is a real problem by searching [Stack Overflow](http://stackoverflow.com/questions/tagged/nativescript)?
