@@ -2,6 +2,9 @@
 Progress NativeScript UI is a suite of UI components targeting the NativeScript platform. The controls are based on the familiar [Progress Telerik UI for Android](http://www.telerik.com/android-ui) and [Progress Telerik UI for iOS](http://www.telerik.com/ios-ui) suites and expose common API for utilizing these suites Android and iOS cross-platform development.
 
 # Contributing with issues reports
+
+> Please take a minute to read our [NativeScript Code of Conduct](https://github.com/NativeScript/codeofconduct) before proceeding with posting issues or discussing. The purpose of this guide is to make communication and cooperation within our forums a pleasure for you and the other members.
+
 In order to provide a fast response and issue resolution to all submitted issues we **require** that all issue reports are done with our predefined "issue template" that is automatically populated in the issue submission form. **Please fill** that template and **DO NOT DELETE IT**, that information is necessary and helpful to us in order to provide you with a timely response. If the "issue template" information is not provided **your issue may be closed immediately** without a response.
 
 # Overview
