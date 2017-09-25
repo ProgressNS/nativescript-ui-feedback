@@ -9,16 +9,14 @@ In order to provide a fast response and issue resolution to all submitted issues
 
 # Overview
 ## Distribution
-**Progress NativeScript UI** is distributed in two flavors: *Pro* and *Free*. Both versions of the suite are available on npmjs.org under the `nativescript-telerik-ui` name. The *Pro* (`nativescript-telerik-ui-pro`) flavor of the plugin is a paid version and is available for download from npmjs.org but requires a paid license to be used in a production project, more details can be found [here](http://www.telerik.com/nativescript-ui).
+**Progress NativeScript UI** is available on [npmjs.org](https://www.npmjs.com/package/nativescript-pro-ui) under the `nativescript-pro-ui` name. More details can be found [here](http://www.telerik.com/nativescript-ui).
 
 ## Getting started
 For more information on how to use Progress NativeScript UI, please visit the documentation website here [http://docs.telerik.com/devtools/nativescript-ui](http://docs.telerik.com/devtools/nativescript-ui).
 
-You can also take a look at the SDK samples and SDK Angular samples applications which are available on GitHub and contain simple scenarios covering all features of the components in Progress NativeScript UI:
+You can also take a look at the SDK samples and SDK Angular samples applications which are available on GitHub and contain simple scenarios covering most features of the components in Progress NativeScript UI:
 - [http://www.github.com/telerik/nativescript-ui-samples](http://www.github.com/telerik/nativescript-ui-samples)
 - [http://www.github.com/telerik/nativescript-ui-samples-angular](http://www.github.com/telerik/nativescript-ui-samples-angular)
-
-> The SDK Examples application depends on the *Pro* version of the plugin.
 
 ## Feedback
 Progress NativeScript UI is constantly improved and extended so we're looking for your feedback. We will be grateful if you share your thoughts regarding:
