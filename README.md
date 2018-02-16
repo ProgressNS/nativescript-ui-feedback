@@ -29,4 +29,4 @@ Progress NativeScript UI is constantly improved and extended so we're looking fo
 - ...whatever comes to your mind
 
 You can also submit issues on GitHub here. We have a dedicated forums section on the Telerik website which can be used for feedback and support as well:
-http://www.telerik.com/forums/nativescript-ui
+https://discourse.nativescript.org/c/nativescript-ui
