@@ -1,5 +1,5 @@
 # Welcome to Progress NativeScript UI
-Progress NativeScript UI is a suite of UI components targeting the NativeScript platform. The controls are based on the familiar [Progress Telerik UI for Android](http://www.telerik.com/android-ui) and [Progress Telerik UI for iOS](http://www.telerik.com/ios-ui) suites and expose common API for utilizing these suites Android and iOS cross-platform development.
+[Progress NativeScript UI](https://www.nativescript.org/ui-for-nativescript) is a suite of UI components targeting the NativeScript platform. The controls are based on the familiar [Progress Telerik UI for Android](http://www.telerik.com/android-ui) and [Progress Telerik UI for iOS](http://www.telerik.com/ios-ui) suites and expose common API for utilizing these suites Android and iOS cross-platform development.
 
 # Contributing with issues reports
 
@@ -9,7 +9,15 @@ In order to provide a fast response and issue resolution to all submitted issues
 
 # Overview
 ## Distribution
-**Progress NativeScript UI** is available on [npmjs.org](https://www.npmjs.com/package/nativescript-pro-ui) under the `nativescript-pro-ui` name. More details can be found [here](http://www.telerik.com/nativescript-ui).
+**Progress NativeScript UI** is distributed via npm. You may download the package that contains the component that you want to use from the following locations:
+
+- **Calendar**: https://www.npmjs.com/package/nativescript-ui-calendar
+- **Chart**: https://www.npmjs.com/package/nativescript-ui-chart
+- **ListView**: https://www.npmjs.com/package/nativescript-ui-listview
+- **DataForm**: https://www.npmjs.com/package/nativescript-ui-dataform
+- **SideDrawer**: https://www.npmjs.com/package/nativescript-ui-sidedrawer
+- **Gauge**: https://www.npmjs.com/package/nativescript-ui-gauge
+- **AutoComplete**: https://www.npmjs.com/package/nativescript-ui-autocomplete
 
 ## Getting started
 For more information on how to use Progress NativeScript UI, please visit the documentation website here [http://docs.telerik.com/devtools/nativescript-ui](http://docs.telerik.com/devtools/nativescript-ui).
@@ -28,5 +36,5 @@ Progress NativeScript UI is constantly improved and extended so we're looking fo
 - Examples
 - ...whatever comes to your mind
 
-You can also submit issues on GitHub here. We have a dedicated forums section on the Telerik website which can be used for feedback and support as well:
+You can also submit issues on GitHub here. We have a dedicated forums section on the NativeScript forums website which can be used for feedback and support as well:
 https://discourse.nativescript.org/c/nativescript-ui
