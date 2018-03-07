@@ -1,0 +1,7 @@
+# Releases
+
+## {VERSION}
+
+### Fixes:
+
+### Features:
