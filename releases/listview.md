@@ -1,5 +1,20 @@
 # Releases
 
+## v3.5.3
+
+### Fixes:
+  - https://github.com/telerik/nativescript-ui-feedback/issues/581
+  - https://github.com/telerik/nativescript-ui-feedback/issues/585
+
+### New:
+  - https://github.com/telerik/nativescript-ui-feedback/issues/531
+
+## v3.5.2
+
+### Fixes:
+- iOS crash with grouping https://github.com/NativeScript/nativescript-ui-listview/pull/7
+
+
 ## v3.5.1
 
 ### Fixes:
