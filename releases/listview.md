@@ -12,7 +12,7 @@
 ## v3.5.2
 
 ### Fixes:
-- iOS crash with grouping https://github.com/NativeScript/nativescript-ui-listview/pull/7
+- iOS crash with grouping https://github.com/telerik/nativescript-ui-feedback/issues/579
 
 
 ## v3.5.1
