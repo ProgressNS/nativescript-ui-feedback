@@ -20,3 +20,8 @@
 ### Fixes:
   - [RadListView items with async pipe can cause crash](https://github.com/telerik/nativescript-ui-feedback/issues/410)
   - [Calling `listView.getSelectedItems()` when filtering is enabled and active will not return the actual selected items](https://github.com/telerik/nativescript-ui-feedback/issues/558)
+
+
+## v3.5.0
+
+Initial Release. Matches the state from NativeScript Pro UI [v3.4.0](http://docs.telerik.com/devtools/nativescript-ui/release-notes#release-notes-340).
