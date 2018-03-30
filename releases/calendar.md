@@ -1,5 +1,11 @@
 # Releases
 
+## v3.5.2
+
+### Fixes
+ - [Calendar: Missing hours slots for appointment in calendar dayView](https://github.com/telerik/nativescript-ui-feedback/issues/590)
+ - [Calendar: The property displayedDate is not correctly updated](https://github.com/telerik/nativescript-ui-feedback/issues/589)
+
 ## v3.5.1
 
 ### Fixes:
