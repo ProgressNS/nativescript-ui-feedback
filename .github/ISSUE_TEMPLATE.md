@@ -8,7 +8,7 @@ If the below information is not provided we may not be able to respond and/or as
 
 ## Please, provide the details below:
 
-### Did you verify this is a real problem by searching [Stack Overflow](http://stackoverflow.com/questions/tagged/nativescript)?
+### Did you verify this is a real problem by searching the [NativeScript Forum](https://discourse.nativescript.org/)?
 _Yes/No_
 
 ### Tell us about the problem
