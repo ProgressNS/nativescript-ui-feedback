@@ -1,5 +1,7 @@
 # Welcome to Progress NativeScript UI
-[Progress NativeScript UI](https://www.nativescript.org/ui-for-nativescript) is a suite of UI components targeting the NativeScript platform. The controls are based on the familiar [Progress Telerik UI for Android](http://www.telerik.com/android-ui) and [Progress Telerik UI for iOS](http://www.telerik.com/ios-ui) suites and expose common API for utilizing these suites Android and iOS cross-platform development.
+[Progress NativeScript UI](https://www.nativescript.org/ui-for-nativescript) is a free suite of UI components targeting the NativeScript platform. The controls are based on the familiar [Progress Telerik UI for Android](http://www.telerik.com/android-ui) and [Progress Telerik UI for iOS](http://www.telerik.com/ios-ui) suites and expose common API for utilizing these suites Android and iOS cross-platform development.
+
+> NOTE: Although the components are free, they are not open-source and their code is proprietry. [Read the components' license for details](https://github.com/telerik/nativescript-ui-feedback/blob/master/LICENSE.md).
 
 # Contributing with issues reports
 
