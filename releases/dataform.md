@@ -1,5 +1,10 @@
 # Releases
 
+## 3.6.0 (2018, april, 27)
+### Features:
+- Add vue support
+
+
 
 ## v3.5.0
 
