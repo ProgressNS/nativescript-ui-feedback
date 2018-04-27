@@ -1,5 +1,14 @@
 # Releases
 
+## 3.7.0 (2018, april, 27)
+
+### Features:
+ - Add vue support
+
+### Fixes:
+ - [Crash on App resume w/ Error](https://github.com/telerik/nativescript-ui-feedback/issues/540)
+
+
 ## v3.6.0
 
 ### Features:
