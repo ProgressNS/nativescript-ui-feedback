@@ -1,5 +1,14 @@
 # Releases
 
+## 3.6.0 (2018, april, 27)
+
+### Features:
+
+- Add vue support
+### Fixes:
+
+- [Day view calendar - events at the same time overlap each other](https://github.com/telerik/nativescript-ui-feedback/issues/414)
+
 ## v3.5.2
 
 ### Fixes
