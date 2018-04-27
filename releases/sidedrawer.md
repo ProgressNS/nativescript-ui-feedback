@@ -1,5 +1,9 @@
 # Releases
 
+## v4.1.0
+### Features:
+- Vue support
+
 ## v4.0.0
 ### Breaking changes
 - The `showOverNavigation` property is removed. More details and migration guide can be found in this ["article"](http://docs.telerik.com/devtools/nativescript-ui/Controls/Angular/SideDrawer/show-over-navi-bar#migrating-from-versions-3xx-to-the-latest-version) article.
