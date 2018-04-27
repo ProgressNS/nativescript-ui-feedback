@@ -1,5 +1,9 @@
 # Releases
 
+## v3.6.0
+
+### Features:
+ - Vue support.
 
 ## v3.5.0
 
