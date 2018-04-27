@@ -1,5 +1,10 @@
 # Releases
 
+## v3.5.5
+
+### Fixes:
+  - [Error when deleting items on multi teplates mode with header](https://github.com/telerik/nativescript-ui-feedback/issues/506)
+
 ## v3.5.3
 
 ### Fixes:
