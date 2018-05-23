@@ -1,5 +1,10 @@
 # Releases
 
+## v3.6.1
+
+### Fixes:
+ - [DateTimeContiniousAxis with majorStep Hour and large items source freezes the app](https://github.com/telerik/nativescript-ui-feedback/issues/321).
+
 ## v3.6.0
 
 ### Fixes:
