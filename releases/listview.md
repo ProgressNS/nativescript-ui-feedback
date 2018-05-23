@@ -1,5 +1,11 @@
 # Releases
 
+## v3.5.7
+
+### Fixes:
+  - [ListView crushing on android after using onItemSelected](https://github.com/telerik/nativescript-ui-feedback/issues/530)
+  - [Issue when selecting RadListView item from an angular ModalDialogService](https://github.com/telerik/nativescript-ui-feedback/issues/538)
+
 ## v3.5.5
 
 ### Fixes:
