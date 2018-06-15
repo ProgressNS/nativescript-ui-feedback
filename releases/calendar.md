@@ -1,5 +1,12 @@
 # Releases
 
+## 3.6.1
+
+### Fixes:
+
+- Update d.ts
+
+
 ## 3.6.0 (2018, april, 27)
 
 ### Features:
