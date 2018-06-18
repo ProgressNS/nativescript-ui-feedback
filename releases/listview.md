@@ -1,5 +1,14 @@
 # Releases
 
+## v3.5.8
+
+### Fixes:
+  - [Error while using groupingFunction with Angular and webpack without 'tkGroupTemplate'](https://github.com/telerik/nativescript-ui-feedback/issues/689)
+  - [RadListView : Even though selectionBehavior is 'None', item gets selected on swipe action in ios](https://github.com/telerik/nativescript-ui-feedback/issues/326)
+  - [Error when trying to bind data on my radlistview](https://github.com/telerik/nativescript-ui-feedback/issues/270)
+  - [ListView Header is missing on iOS](https://github.com/telerik/nativescript-ui-feedback/issues/632)
+  - Update dependencies for NativeScript 4.1
+
 ## v3.5.7
 
 ### Fixes:
