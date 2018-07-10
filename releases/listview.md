@@ -1,5 +1,10 @@
 # Releases
 
+## v3.5.9
+
+### Fixes:
+  - Various fixes and refactoring in the native part
+
 ## v3.5.8
 
 ### Fixes:
