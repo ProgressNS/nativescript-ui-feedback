@@ -1,5 +1,15 @@
 # Releases
 
+## 3.7.0 (2018, july, 10)
+
+### Features:
+
+- [DayView - Add a property to control whether the week is visible](https://github.com/telerik/nativescript-ui-feedback/issues/509)
+
+### Fixes:
+
+- [Unable to select particular day in Calendar Day view](https://github.com/telerik/nativescript-ui-feedback/issues/546)
+
 ## 3.6.1
 
 ### Fixes:
