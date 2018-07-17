@@ -1,5 +1,13 @@
 # Releases
 
+## v3.5.10
+
+### Fixes:
+  - [Angular RadListView iOS: itemLoading and loaded event of template components triggered multiple times](https://github.com/telerik/nativescript-ui-feedback/issues/523)
+  - [iOS RadListView: weird itemLoading behaviour since latest nativescript-pro-ui@3.3.0 ](https://github.com/telerik/nativescript-ui-feedback/issues/496)
+  - [RadListView is slow displaying 500+ items](https://github.com/telerik/nativescript-ui-feedback/issues/641)
+  - [Tapping the default group header throws exception](https://github.com/telerik/nativescript-ui-feedback/issues/712)
+
 ## v3.5.9
 
 ### Fixes:
