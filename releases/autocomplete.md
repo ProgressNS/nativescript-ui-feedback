@@ -1,5 +1,14 @@
 # Releases
 
+## 3.9.0 (2018, august, 17)
+
+### Features:
+ - Support for NS 4.2
+
+### Fixes:
+ - [AutoCompleteTextView SuggestionView not visible in iOS modal](https://github.com/telerik/nativescript-ui-feedback/issues/379)
+ - [Can't populate the RadAutoCompleteTextView with a value programmatically](https://github.com/telerik/nativescript-ui-feedback/issues/385)
+
 ## 3.8.0 (2018, august, 8)
 
 ### Features:
