@@ -1,5 +1,11 @@
 # Releases
 
+## v3.5.11
+
+### Fixes:
+  - [Implement support for 'horizontal dynamic size' in TKListViewLayoutChangeManager](https://github.com/telerik/nativescript-ui-feedback/issues/783)
+  - [Fix angular demo issue](https://github.com/telerik/nativescript-ui-feedback/issues/745)
+
 ## v3.5.10
 
 ### Fixes:
