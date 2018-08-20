@@ -1,5 +1,10 @@
 # Releases
 
+## 3.7.0
+
+#### Features
+- Support for NativeScript 4.2.0
+
 ## v3.6.0
 
 ### Features:
