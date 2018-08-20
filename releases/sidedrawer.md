@@ -1,5 +1,11 @@
 # Releases
 
+## 4.3.0 (2018, Aug, 16)
+
+### Feature:
+- Support for NativeScript 4.2.0 
+
+
 ## v4.1.0
 ### Features:
 - Vue support
