@@ -1,5 +1,19 @@
 # Releases
 
+## v3.6.0
+
+### Features:
+- Support for NativeScript 4.2
+
+### Fixes
+- [RadListView on iOS to does not respect loadMoreDataRequested returnValue](https://github.com/telerik/nativescript-ui-feedback/issues/595)
+- [iOS RadListView: header sizing issue when using visibility binding and an async datasource](https://github.com/telerik/nativescript-ui-feedback/issues/762)
+- [Memory Consumption is high when use pullToRefresh](https://github.com/telerik/nativescript-ui-feedback/issues/717)
+- [Memory leak in RadListView](https://github.com/telerik/nativescript-ui-feedback/issues/748)
+- [Android: RadListView changing height of footer affects height of header](https://github.com/telerik/nativescript-ui-feedback/issues/751)
+- [Busy indicator is not hidden when using 'Manual' loadOnDemandMode and there are fewer items than the screen size](https://github.com/telerik/nativescript-ui-feedback/issues/793)
+  
+
 ## v3.5.11
 
 ### Fixes:
