@@ -1,5 +1,10 @@
 # Releases
 
+## 3.6.3 (2018, August, 17)
+#### Features
+
+- Support for NativeScript 4.2.0
+
 ## 3.6.0 (2018, april, 27)
 ### Features:
 - Add vue support
