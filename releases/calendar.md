@@ -1,5 +1,13 @@
 # Releases
 
+## 3.8.0 (2018, Aug, 16)
+
+### Features:
+
+- Support for NativeScript 4.2.0
+- Support for java 10
+
+
 ## 3.7.0 (2018, july, 10)
 
 ### Features:
