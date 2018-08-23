@@ -1,5 +1,10 @@
 # Releases
 
+## 3.7.1
+
+#### Fixes
+- [Gauge Customization demo displays different values](https://github.com/telerik/nativescript-ui-feedback/issues/795)
+
 ## 3.7.0
 
 #### Features
