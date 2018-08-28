@@ -1,5 +1,13 @@
 # Releases
 
+## 3.8.1 (2018, Aug, 28)
+
+### Features:
+
+- [Calendar(iOS): Events longer than 1 day are drawn like they are one day event](https://github.com/telerik/nativescript-ui-feedback/issues/373)
+- [Date spanning multiple days is only displayed on start date](https://github.com/telerik/nativescript-ui-feedback/issues/694)
+- [RadCalendar extends over the elements above it](https://github.com/telerik/nativescript-ui-feedback/issues/606)
+
 ## 3.8.0 (2018, Aug, 16)
 
 ### Features:
