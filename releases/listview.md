@@ -1,5 +1,12 @@
 # Releases
 
+## v3.6.1
+
+### Fixes:
+  - [The 'index' from 'ListViewEventData' of the swipe action events is not correct while using 'groupingFunction'](https://github.com/telerik/nativescript-ui-feedback/issues/789)
+  - ["bindingContext" of "swipe" View is not correct when grouping, filtering and/or sorting is enabled](https://github.com/telerik/nativescript-ui-feedback/issues/803)
+  - [The "index" of elements in all events is incorrect if grouping, filtering and/or sorting is enabled](https://github.com/telerik/nativescript-ui-feedback/issues/804)
+
 ## v3.6.0
 
 ### Features:
