@@ -1,5 +1,11 @@
 # Releases
 
+## 3.7.1 (2018, September, 12)
+#### Features
+
+- Fix: [Error when source contains nested properties, using 'ignore' in 'metadata' does not help](https://github.com/telerik/nativescript-ui-feedback/issues/831)
+
+
 ## 3.6.3 (2018, August, 17)
 #### Features
 
