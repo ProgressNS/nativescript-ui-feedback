@@ -1,5 +1,16 @@
 # Releases
 
+## v3.9.0
+
+### Fixes:
+ - [iOS: labelMargin Bug on tkCartesianVerticalAxis](https://github.com/telerik/nativescript-ui-feedback/issues/505).
+ - [Trackball selects more than one point incorrectly](https://github.com/telerik/nativescript-ui-feedback/issues/470).
+ - [snapMode property does nothing](https://github.com/telerik/nativescript-ui-feedback/issues/818).
+ - [Legend is not updated with colors from palettes](https://github.com/telerik/nativescript-ui-feedback/issues/819).
+
+### Features:
+ - [Add the ability to customize the color of the major ticks](https://github.com/telerik/nativescript-ui-feedback/issues/252)
+
 ## v3.6.1
 
 ### Fixes:
