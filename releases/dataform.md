@@ -1,5 +1,10 @@
 # Releases
 
+## 3.7.2 (2018, September, 18)
+#### Fix
+
+- [Editor "DatePicker" throws error when used from json 'source' and 'metadata](https://github.com/telerik/nativescript-ui-feedback/issues/834)
+
 ## 3.7.1 (2018, September, 12)
 #### Features
 
