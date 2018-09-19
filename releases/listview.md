@@ -1,5 +1,11 @@
 # Releases
 
+## v3.7.0
+
+### Features:
+- Vue support
+- Provide a way to use "pull to refresh" + "load on demand" together
+
 ## v3.6.1
 
 ### Fixes:
