@@ -1,5 +1,11 @@
 # Releases
 
+## 3.9.0 (2018, Oct, 2)
+
+### Features:
+
+- Vue extended support
+
 ## 3.8.1 (2018, Aug, 28)
 
 ### Features:
