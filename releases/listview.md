@@ -1,5 +1,11 @@
 # Releases
 
+## v3.7.1
+
+### Features:
+- Vue watcher to refresh the list if the items change
+- [Resolve an issue with disable of "load on demand" during UICollectionView creation](https://github.com/telerik/nativescript-ui-feedback/issues/674)
+
 ## v3.7.0
 
 ### Features:
