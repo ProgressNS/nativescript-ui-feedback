@@ -1,5 +1,13 @@
 # Releases
 
+## v3.9.1
+
+### Fixes:
+ - [RadPieChart visual discrepancy between Android and iOS](https://github.com/telerik/nativescript-ui-feedback/issues/879).
+ - [Chart Legend example displays wrong Area series](https://github.com/telerik/nativescript-ui-feedback/issues/832).
+ - [Chart - omitting a data point in a LineSeries crashes the app on iOS](https://github.com/telerik/nativescript-ui-feedback/issues/188).
+ - [Prevent exceptions when passing null values to chart](https://github.com/telerik/nativescript-ui-feedback/issues/876).
+
 ## v3.9.0
 
 ### Fixes:
