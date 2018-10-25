@@ -42,5 +42,4 @@ Progress NativeScript UI is constantly improved and extended so we're looking fo
 - Examples
 - ...whatever comes to your mind
 
-You can also submit issues on GitHub here. We have a dedicated forums section on the NativeScript forums website which can be used for feedback and support as well:
-https://discourse.nativescript.org/c/nativescript-ui
+You can also [submit issues](https://github.com/telerik/nativescript-ui-feedback/issues/new) in this repo. For general NativeScript questions and support, check out [Stack Overflow](https://stackoverflow.com/questions/tagged/nativescript) or ask our experts in [NativeScript community Slack channel](http://developer.telerik.com/wp-login.php?action=slack-invitation). In Slack there is a dedicated #ui-for-nativescript channel where you can ask and comment specifically for the UI Components.
