@@ -1,5 +1,12 @@
 # Releases
 
+## v3.7.3
+
+### Fixes:
+- Virtualization
+- [NullPointerException fix](https://github.com/telerik/nativescript-ui-feedback/issues/863)
+- [ListView itemDeselected not called on Android](https://github.com/telerik/nativescript-ui-feedback/issues/813)
+
 ## v3.7.1
 
 ### Features:
