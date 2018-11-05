@@ -1,5 +1,16 @@
 # Releases
 
+## v3.8.0
+
+### Fixes:
+- [Memory leak in Angular application](https://github.com/telerik/nativescript-ui-feedback/issues/825)
+- [itemDeselected: args.view is undefined (iOS only)
+](https://github.com/telerik/nativescript-ui-feedback/issues/411)
+- [itemTap & ItemDeselected events order inconsistency on iOS and Android](https://github.com/telerik/nativescript-ui-feedback/issues/416)
+- [possible fix for Null pointer exception](https://github.com/telerik/nativescript-ui-feedback/issues/911)
+- [possible fix for Null pointer exception](https://github.com/telerik/nativescript-ui-feedback/issues/863)
+- [itemDeselected not called on Android](https://github.com/telerik/nativescript-ui-feedback/issues/813)
+
 ## v3.7.3
 
 ### Fixes:
