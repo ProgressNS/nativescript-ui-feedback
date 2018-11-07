@@ -1,5 +1,19 @@
 # Releases
 
+### 3.8.0 (2018, November, 7)
+-------------------------------
+
+#### Features:
+- [Make it possible to style the RadDataForm and its editors with CSS](https://github.com/telerik/nativescript-ui-feedback/issues/841)
+
+#### Fixes:
+- [Date picker crash on android](https://github.com/telerik/nativescript-ui-feedback/issues/871)
+- [Unable to create editor of type DatePicker or TimePicker, while using metadata](https://github.com/telerik/nativescript-ui-feedback/issues/218)
+- [Time Picker Only Display UTC format](https://github.com/telerik/nativescript-ui-feedback/issues/533)
+- [Empty array for valuesProvider crashes in iOS](https://github.com/telerik/nativescript-ui-feedback/issues/862)
+- [iOS displayed wrong values above 100](https://github.com/telerik/nativescript-ui-feedback/issues/177)
+- [MultilineText not working on Android](https://github.com/telerik/nativescript-ui-feedback/issues/877)
+
 
 ### 3.7.3 (2018, September, 20)
 -------------------------------
