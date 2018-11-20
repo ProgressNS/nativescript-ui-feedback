@@ -1,5 +1,15 @@
 # Releases
 
+### 3.9.0 (2018, November, 20)
+-------------------------------
+
+#### Features:
+- Vue improvements
+
+#### Fixes:
+- [autoCompleteDisplayMode is ignored if set in the propertyAnnotations data](https://github.com/telerik/nativescript-ui-feedback/issues/921)
+- [Issue while setting up groups from the metadata](https://github.com/telerik/nativescript-ui-feedback/issues/216)
+
 ### 3.8.0 (2018, November, 7)
 -------------------------------
 
