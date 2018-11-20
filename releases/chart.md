@@ -1,5 +1,15 @@
 # Releases
 
+## v3.10.0 (2018, November 20)
+
+### Features:
+ - Improve Vue.js Support
+ - [Add 'allowAnimations' as a chart property](https://github.com/telerik/nativescript-ui-feedback/issues/908)        
+
+### Fixes:
+ - [Missing legend info](https://github.com/telerik/nativescript-ui-feedback/issues/901)
+
+
 ## v3.9.1
 
 ### Fixes:
