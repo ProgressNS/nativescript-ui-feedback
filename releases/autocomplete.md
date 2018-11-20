@@ -1,5 +1,13 @@
 # Releases
 
+## 3.10.2 (2018, November, 20)
+
+### Features:
+ - Vue improvements
+ 
+ ### Fixes:
+ - [autoCompleteDisplayMode is ignored if set in the propertyAnnotations data](https://github.com/telerik/nativescript-ui-feedback/issues/921)
+
 ## 3.9.0 (2018, august, 17)
 
 ### Features:
