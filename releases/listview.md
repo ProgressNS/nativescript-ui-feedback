@@ -1,5 +1,20 @@
 # Releases
 
+## v4.0.0 (2018, November 20)
+
+### Features and braking changes:
+- Updated plugin dependencies
+  - tns-core-modules: 5.0.0
+  - angular: 7.0.0
+- Vue applications running 4.2.0 requires CLI 4.2
+
+### Fixes:
+- [The header of the RadListView with async data source doesn't trigger angular event in android](https://github.com/telerik/nativescript-ui-feedback/issues/913)
+- [Calling "refresh" on RadListView while using "ListViewStaggeredLayout" causes the list to go blank/apply strange offset at the begining](https://github.com/telerik/nativescript-ui-feedback/issues/853)
+- [Selecting an item on Android resets scroll position to the first item](https://github.com/telerik/nativescript-ui-feedback/issues/906)
+- Several vue.js fixes
+
+
 ## v3.8.0
 
 ### Fixes:
