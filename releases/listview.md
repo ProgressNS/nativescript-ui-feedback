@@ -1,5 +1,37 @@
 # Releases
 
+## v5.0.0 (2018, November 27)
+
+### Braking changes
+- `indicatorColor` - its type is changed from `string` to `Color`
+- `indicatorBackgroundColor` - its type is changed from `string` to `Color`
+- `indicatorBackgroundColor` - now applies to the entire background behind the activity indicator
+Migration steps:
+When setting the `indicatorColor` and `indicatorBackgroundColor` properties of the `indicatorBackgroundColor` from the code you should use the `Color` class from `tns-core-modules/color`
+
+```
+let style = new PullToRefreshStyle();
+style.indicatorColor = new Color("white");
+style.indicatorBackgroundColor = new Color("blue");
+this.listView.pullToRefreshStyle = style;
+```
+
+### Features
+- [Add support for safe areas (immersive scrolling)](https://github.com/telerik/nativescript-ui-feedback/issues/922)
+
+
+### Fixes:
+- [ [iOS] Assertion failure using pullToRefresh when filteringFunction is applied in iOS](https://github.com/telerik/nativescript-ui-feedback/issues/718)
+- [ [iOS] App crashes when grouping is set and data is loaded async](https://github.com/telerik/nativescript-ui-feedback/issues/696)
+- [ [iOS] RadListView Angular - loadMoreDataRequested crashes the app when is used with itemSelected](https://github.com/telerik/nativescript-ui-feedback/issues/429)
+- [RadListView notifyPullToRefreshFinished not works](https://github.com/telerik/nativescript-ui-feedback/issues/64)
+- [Using splice to remove an item while using "swipe actions" and "data operations" causes exception](https://github.com/telerik/nativescript-ui-feedback/issues/805)
+- [v3.5.11 RadListView with Staggered Layout have offset applied to each item](https://github.com/telerik/nativescript-ui-feedback/issues/788)
+- [ListView load-on-demand auto scroll to top](https://github.com/telerik/nativescript-ui-feedback/issues/706)
+- [Vue Item Loading example sets wrong colors on items when scrolled](https://github.com/telerik/nativescript-ui-feedback/issues/905)
+- [ListView: Occasional null pointer exceptions](https://github.com/telerik/nativescript-ui-feedback/issues/947)
+
+
 ## v4.0.0 (2018, November 20)
 
 ### Features and braking changes:
