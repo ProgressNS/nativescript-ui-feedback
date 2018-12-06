@@ -1,5 +1,12 @@
 # Releases
 
+### 3.9.1 (2018, December, 06)
+-------------------------------
+
+#### Fixes:
+- [Transfer long text on two lines, while using long text for the displayName](https://github.com/telerik/nativescript-ui-feedback/issues/299)
+
+
 ### 3.9.0 (2018, November, 20)
 -------------------------------
 
