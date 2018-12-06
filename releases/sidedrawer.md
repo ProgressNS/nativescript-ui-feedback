@@ -1,5 +1,12 @@
 # Releases
 
+
+## 5.0.1 (2018, Dec, 06)
+
+### Fixes:
+- [Attempt to invoke virtual method 'float android.view.MotionEvent.getX()' on a null object reference](https://github.com/telerik/nativescript-ui-feedback/issues/958)
+- [Crash when used in Playground](https://github.com/NativeScript/nsplugins-internal/issues/168)
+
 ## 4.3.0 (2018, Aug, 16)
 
 ### Feature:
