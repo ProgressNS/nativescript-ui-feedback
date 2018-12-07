@@ -1,5 +1,15 @@
 # Releases
 
+## v3.11.0 (2018, December, 7)
+
+### Features:
+ - [Option to change the fillColor for each Bar in the series](https://github.com/telerik/nativescript-ui-feedback/issues/679)
+ - Support for markingMode: none
+
+### Fixes: 
+ - [Typo in the readme file](https://github.com/telerik/nativescript-ui-feedback/issues/912)
+
+
 ## v3.10.0 (2018, November 20)
 
 ### Features:
