@@ -1,5 +1,10 @@
 # Releases
 
+## v3.11.1 (2018, December, 11)
+
+### Fixes: 
+ - Panbehavior listener disposed in wrong chart class
+
 ## v3.11.0 (2018, December, 7)
 
 ### Features:
