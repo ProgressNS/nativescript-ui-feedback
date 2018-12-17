@@ -1,5 +1,11 @@
 # Releases
 
+## 3.11.0 (2018, December, 13)
+
+### Features:
+ - Support for NS 5.1
+ - Support for markingMode: none
+
 ## 3.10.2 (2018, November, 20)
 
 ### Features:
