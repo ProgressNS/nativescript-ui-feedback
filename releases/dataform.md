@@ -1,5 +1,17 @@
 # Releases
 
+### 3.10.0 (2018, December, 19)
+-------------------------------
+
+#### Features:
+- Support for markingMode: none
+- Support for NS 5.1
+
+#### Fixes:
+- [Dataform iOS groups text gets shrunk when all groups are collapsed](https://github.com/telerik/nativescript-ui-feedback/issues/938)
+- [RadDataForm TKPropertyEditor type decimal does not accept decimal separator iOS 11.4.1 PT-BR](https://github.com/telerik/nativescript-ui-feedback/issues/739)
+
+
 ### 3.9.1 (2018, December, 06)
 -------------------------------
 
