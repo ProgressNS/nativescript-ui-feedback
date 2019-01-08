@@ -1,5 +1,12 @@
 # Releases
 
+## v5.1.0
+
+### Feature:
+- [The tap event will be fired while swipeActions is true](https://github.com/telerik/nativescript-ui-feedback/issues/351)
+### Fixes:
+- Issue with template building
+
 ## v5.0.0 (2018, November 27)
 
 ### Braking changes
