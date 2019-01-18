@@ -31,6 +31,7 @@ For more information on how to use Progress NativeScript UI, please visit the do
 You can also take a look at the SDK samples and SDK Angular samples applications which are available on GitHub and contain simple scenarios covering most features of the components in Progress NativeScript UI:
 - [http://www.github.com/telerik/nativescript-ui-samples](http://www.github.com/telerik/nativescript-ui-samples)
 - [http://www.github.com/telerik/nativescript-ui-samples-angular](http://www.github.com/telerik/nativescript-ui-samples-angular)
+- [http://www.github.com/telerik/nativescript-ui-samples-vue](http://www.github.com/telerik/nativescript-ui-samples-vue)
 
 ## Feedback
 Progress NativeScript UI is constantly improved and extended so we're looking for your feedback. We will be grateful if you share your thoughts regarding:
