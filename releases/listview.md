@@ -1,5 +1,12 @@
 # Releases
 
+
+## v5.1.1 - January, 21, 2019
+
+
+### Fixes:
+- [RadListView scrolling and swiping at the same time breaks the tap event](https://github.com/telerik/nativescript-ui-feedback/issues/991)
+
 ## v5.1.0
 
 ### Feature:
