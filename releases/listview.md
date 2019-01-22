@@ -6,6 +6,7 @@
 
 ### Fixes:
 - [RadListView scrolling and swiping at the same time breaks the tap event](https://github.com/telerik/nativescript-ui-feedback/issues/991)
+- [RadListView staggered layout not working on iOS using nativescript-vue](https://github.com/telerik/nativescript-ui-feedback/issues/931)
 
 ## v5.1.0
 
