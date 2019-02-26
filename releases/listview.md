@@ -1,5 +1,14 @@
 # Releases
 
+## v5.2.0 (2019, February 25)
+
+### Features
+- [Add Custom Template for Group Title in RadListView for Vue.js](https://github.com/telerik/nativescript-ui-feedback/issues/972)
+
+### Fixes:
+- [Application terminated when navigate from and back to component has <RadListView> with load more feature](https://github.com/telerik/nativescript-ui-feedback/issues/978)
+- [RadListView wrong scrollOffset when using headerItemTemplate](https://github.com/telerik/nativescript-ui-feedback/issues/559)
+
 
 ## v5.1.1 - January, 21, 2019
 
