@@ -1,5 +1,31 @@
 # Releases
 
+## v6.0.0 (2019, March 8)
+
+### Fixes:
+- [Input component in vue's RadListView template breaks app](https://github.com/telerik/nativescript-ui-feedback/issues/966)
+
+## &#x1F534; BREAKING CHANGES &#x1F534;
+
+## What is the previous behavior?
+Enum-looking properties are difficult to use, because their type is string and they are hard to guess. Example:
+```
+this.layout.scrollDirection = "Vertical";
+```
+
+## What is the new behavior?
+The enum-looking properties have their enums, so they are easier to use. Example:
+```
+this.layout.scrollDirection = ListViewScrollDirection.Vertical;
+```
+
+<!-- If this PR contains a breaking change, please describe the impact and migration path for existing applications below. -->
+
+The following enumerations are created: `ListViewItemSnapMode`, `ListViewScrollDirection`, `ListViewScrollPosition`, `ListViewViewType`, `ListViewReorderMode`, `ListViewItemAnimation`, `ListViewLoadOnDemandMode`, `ListViewSelectionBehavior`. They are used where appropriate. 
+
+Migration steps:
+- replace every "magic string" usage with a value from the relevant enum
+
 ## v5.2.0 (2019, February 25)
 
 ### Features
