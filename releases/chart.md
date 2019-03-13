@@ -1,5 +1,44 @@
 # Releases
 
+## v4.0.0 (2019, March, 13)
+
+### Breaking changes: 
+ - [Add enumerations for string properties](https://github.com/NativeScript/nsplugins-internal/issues/169)
+
+## What is the current behavior?
+1. Enum-looking properties are difficult to use, because their type is string and they are hard to guess. Example:
+```
+this._linearAxisZoom.horizontalLocation = "Left";
+```
+2. Color related properties are not using the Color type, instead they are of type string. Example:
+```
+annotation.strokeColor = "Red";
+```
+
+## What is the new behavior?
+1. The enum-looking properties have their enums, so they are easier to use. Example:
+```
+this._linearAxisZoom.horizontalLocation = ChartAxisHorizontalLocation.Left;
+```
+2. The Color related properties are using the type especially created for handling colors - Color:
+```
+annotation.strokeColor = new Color("Red");
+```
+
+Related to [this issue](https://github.com/NativeScript/nsplugins-internal/issues/169).
+
+<!-- If this PR contains a breaking change, please describe the impact and migration path for existing applications below. -->
+
+## &#x1F534; BREAKING CHANGES &#x1F534;
+
+1. The following enumerations are created: `ChartSeriesStackMode`, `ChartFontStyle`, `ChartSeriesSelectionMode`, `ChartSelectionMode`, `ChartTrackballSnapMode`, `ChartLegendPosition`, `ChartLegendOffsetOrigin`, `ChartPaletteSeriesState`, `ChartSeriesPaletteMode`, `ChartAxisLabelFitMode`, `ChartAxisLabelLayoutMode`, `ChartAxisHorizontalLocation`, `ChartAxisVerticalLocation`, `ChartAxisPlotMode`, `ChartAxisLabelVisibility`, `ChartAxisDateTimeComponent`, `ChartAnnotationZPosition`. They are used where appropriate. 
+2. Every property that contains "color" in its name (for example: `strokeColor`, `fillColor`, etc.) is now of type `Color` (was `string`).
+
+Migration steps:
+- replace every "magic string" usage with a value from the relevant enum
+- replace every "Color string" usage with values of type `Color`
+
+
 ## v3.11.1 (2018, December, 11)
 
 ### Fixes: 
