@@ -4,6 +4,41 @@
 
 ### Breaking changes:
  - [Add enumerations for string properties](https://github.com/NativeScript/nsplugins-internal/issues/169)
+ 
+ ## What is the current behavior?
+Enum-looking properties are difficult to use, since they are hard to guess. Example:
+```
+this.autocomplete.displayMode = "Tokens";
+```
+
+## What is the new behavior?
+These properties are of enum types, so they are easier to use. Example:
+```
+this.autocomplete.displayMode = AutoCompleteDisplayMode.Tokens;
+```
+
+Related to [this issue](https://github.com/NativeScript/nsplugins-internal/issues/169).
+
+<!-- If this PR contains a breaking change, please describe the impact and migration path for existing applications below. -->
+
+## &#x1F534; BREAKING CHANGES &#x1F534;
+
+The following properties of RadAutoCompleteTextView were of type string, while now they have their own enumeration and there's also a change in the casing of one of the methods so it is consistent with every other usage of `AutoComplete`:
+```
+    public displayMode: AutoCompleteDisplayMode;
+    public completionMode: AutoCompleteCompletionMode;
+    public layoutMode: AutoCompleteLayoutMode;
+    public suggestMode: AutoCompleteSuggestMode;
+    public resetAutoComplete: void;
+```
+
+Migration steps:
+- replace every usage of the `resetAutocomplete` method with `resetAutoComplete`
+- replace every setting of one of the `displayMode`, `completionMode`, `layoutMode` and `suggestMode` properties in typescript from string to a value from the respective enumerations.
+
+
+
+
 
 ## 3.11.0 (2018, December, 13)
 
