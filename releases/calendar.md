@@ -5,6 +5,50 @@
 ### Breaking changes:
 - [Add enumerations for string properties](https://github.com/NativeScript/nsplugins-internal/issues/169)
 
+## What is the current behavior?
+1. Enum-looking properties are difficult to use, because their type is string and they are hard to guess. Example:
+```
+monthViewStyle.selectionShape = "Round";
+```
+2. Color related properties are not using the Color type, instead they are of type string. Example:
+```
+monthViewStyle.selectionShapeColor = "Red";
+```
+3. Date related properties are not using the Date type, instead they are of type string. Example:
+```
+calendar.minDate = "2018/02/28";
+```
+
+## What is the new behavior?
+1. The enum-looking properties have their enums, so they are easier to use. Example:
+```
+monthViewStyle.selectionShape = CalendarSelectionShape.Round;
+```
+2. The Color related properties are using the type especially created for handling colors - Color:
+```
+monthViewStyle.selectionShapeColor = new Color("Red");
+```
+3. The Date related properties are using the type especially created for handling dates - Date:
+```
+calendar.minDate = new Date(2018, 2, 28);
+```
+
+Related to [this issue](https://github.com/NativeScript/nsplugins-internal/issues/169).
+
+<!-- If this PR contains a breaking change, please describe the impact and migration path for existing applications below. -->
+
+## &#x1F534; BREAKING CHANGES &#x1F534;
+
+1. The following enumerations are created: `CalendarFontStyle`, `CalendarViewMode`, `CalendarSelectionShape`, `CalendarSelectionMode`, `CalendarTransitionMode`, `CalendarEventsViewMode`, `CalendarCellAlignment`. They are used where appropriate. 
+2. Every property that contains "color" in its name (for example: `selectionShapeColor`, `backgroundColor`, etc.) is now of type `Color` (was `string`).
+3. Every property that contains "date" in its name (for example: `minDate`, `maxDate`, etc.) is now of type `Date` (was `string`).
+
+Migration steps:
+- replace every "magic string" usage with a value from the relevant enum
+- replace every "Color string" usage with values of type `Color`
+- replace every "Date string" usage with values of type `Date`
+
+
 ## 3.9.0 (2018, Oct, 2)
 
 ### Features:
