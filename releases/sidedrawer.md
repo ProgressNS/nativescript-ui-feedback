@@ -1,5 +1,10 @@
 # Releases
 
+## 6.0.0 (2019, March, 12)
+
+### Breaking changes
+ - [Add enumerations for string properties](https://github.com/NativeScript/nsplugins-internal/issues/169)
+
 ## 5.1.0 (2018, December, 17)
 
 ### Features:
