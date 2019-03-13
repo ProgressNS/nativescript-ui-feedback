@@ -4,6 +4,31 @@
 
 ### Breaking changes
  - [Add enumerations for string properties](https://github.com/NativeScript/nsplugins-internal/issues/169)
+ 
+ ## What is the current behavior?
+The enum-looking property `drawerLocation` is difficult to use, because its type is string and the available values are hard to guess:
+```
+this._sideDrawer.drawerLocation = "Left";
+```
+
+## What is the new behavior?
+The `drawerLocation` property's type is `SideDrawerLocation`, so it is easier to use:
+```
+this._sideDrawer.drawerLocation = SideDrawerLocation.Left;
+```
+
+Related to [this issue](https://github.com/NativeScript/nsplugins-internal/issues/169).
+
+<!-- If this PR contains a breaking change, please describe the impact and migration path for existing applications below. -->
+
+## &#x1F534; BREAKING CHANGES &#x1F534;
+
+The following enumeration is created: `SideDrawerLocation`. It is used for RadSideDrawer's `drawerLocation` property. 
+
+Migration steps:
+Replace every setting of a string value to the `drawerLocation` property value, to setting a value from the `SideDrawerLocation` enumeration.
+
+
 
 ## 5.1.0 (2018, December, 17)
 
