@@ -26,9 +26,12 @@ You have a feature request that is not part of our immediate plans? Or there is 
 - **AutoComplete**: https://www.npmjs.com/package/nativescript-ui-autocomplete
 
 ## Getting started
-For more information on how to use Progress NativeScript UI, please visit the documentation website here [http://docs.telerik.com/devtools/nativescript-ui](http://docs.telerik.com/devtools/nativescript-ui).
+For more information on how to use Progress NativeScript UI, please visit the documentation pages here:
+- [https://docs.nativescript.org/ui/professional-ui-components/overview](https://docs.nativescript.org/ui/professional-ui-components/overview)
+- [https://docs.nativescript.org/angular/ui/professional-ui-components/overview](https://docs.nativescript.org/angular/ui/professional-ui-components/overview)
+- [https://docs.nativescript.org/vuejs/ns-ui/getting-started](https://docs.nativescript.org/vuejs/ns-ui/getting-started)
 
-You can also take a look at the SDK samples and SDK Angular samples applications which are available on GitHub and contain simple scenarios covering most features of the components in Progress NativeScript UI:
+You can also take a look at the sample applications which are available on GitHub and contain simple scenarios covering most features of the components in Progress NativeScript UI:
 - [http://www.github.com/telerik/nativescript-ui-samples](http://www.github.com/telerik/nativescript-ui-samples)
 - [http://www.github.com/telerik/nativescript-ui-samples-angular](http://www.github.com/telerik/nativescript-ui-samples-angular)
 - [http://www.github.com/telerik/nativescript-ui-samples-vue](http://www.github.com/telerik/nativescript-ui-samples-vue)
