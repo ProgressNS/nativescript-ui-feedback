@@ -1,3 +1,11 @@
+---
+name: Bug report
+about: 'We really appreciate your effort to provide feedback. Before opening a new
+  issue, please make sure that this case is not already reported in GitHub as an
+  issue or in StackOverflow as a question.'
+
+---
+
 <!--
 PLEASE HELP US PROCESS GITHUB ISSUES FASTER BY PROVIDING THE FOLLOWING INFORMATION.
 
@@ -8,9 +16,6 @@ If the below information is not provided we may not be able to respond and/or as
 
 ## Please, provide the details below:
 
-### Did you verify this is a real problem by searching the [NativeScript Forum](https://discourse.nativescript.org/)?
-_Yes/No_
-
 ### Tell us about the problem
 _Please, ensure your title is less than 63 characters long and starts with a capital
 letter._
@@ -19,7 +24,7 @@ letter._
 _iOS/Android/Both (if applicable tell us the specific version of the platform)_
 
 ### Please provide the following version numbers that your issue occurs with:
-- **Progress NativeScript UI version:** (the version of nativescript-telerik-ui/-pro in the `package.json`)
+- **Progress NativeScript UI plugin version:** (the version of nativescript-ui-* in the `package.json`)
 - **CLI:** (run `tns --version` to fetch it)
 - **Cross-platform modules:** (the version of tns-core-modules in the `package.json`)
 - **Runtime(s):** (the `"tns-android"` and `"tns-ios"` properties in the `package.json`)
@@ -29,4 +34,4 @@ _iOS/Android/Both (if applicable tell us the specific version of the platform)_
 2. ...
 
 ### Is there code involved? If so, please share the minimal amount of code needed to recreate the problem.
-_(You can paste entire code snippets or attach a runnable project)_
+_(You can paste entire code snippets, link to playground demo or attach a runnable project)_
