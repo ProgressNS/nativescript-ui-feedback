@@ -1,5 +1,14 @@
 # Releases
 
+## 6.1.0 (2019, March 25)
+
+### Features
+- [Add warning if RLV is added in Stack Layout](https://github.com/NativeScript/nsplugins-internal/issues/183)
+
+
+### Fixes:
+- [Resolve crash issue with 'nativescript-orientation' plugin](https://github.com/telerik/nativescript-ui-feedback/issues/1061)
+
 ## v6.0.0 (2019, March 8)
 
 ### Fixes:
