@@ -1,5 +1,11 @@
 # Releases
 
+## v4.0.1 (2019, April, 08)
+
+### Fixes:
+ - [Fix Vue.js inconsistencies in chart](https://github.com/NativeScript/nsplugins-internal/issues/154)
+ 
+ 
 ## v4.0.0 (2019, March, 13)
 
 ### Breaking changes: 
