@@ -1,5 +1,16 @@
 # Releases
 
+
+## 6.2.0 (2019, April 19)
+
+### Features
+- Add LoadOnDemand in vue
+
+
+### Fixes:
+- [Issues when using `headerItemTemplate` and `footerItemTemplate` with `groupTemplate`](https://github.com/telerik/nativescript-ui-feedback/issues/1072)
+- [RadListView ScrollToIndex with grouping Crashes ios](https://github.com/telerik/nativescript-ui-feedback/issues/1043)
+
 ## 6.1.0 (2019, March 25)
 
 ### Features
