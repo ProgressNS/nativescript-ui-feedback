@@ -1,5 +1,11 @@
 # Releases
 
+## v4.0.2 (2019, April, 22)
+
+### Fixes:
+ - [Chart: axis bounds not respected](https://github.com/telerik/nativescript-ui-feedback/issues/1086)
+ 
+
 ## v4.0.1 (2019, April, 08)
 
 ### Fixes:
