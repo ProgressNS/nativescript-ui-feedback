@@ -1,5 +1,18 @@
 # Releases
 
+## 6.3.0 (2019, May 8)
+
+### Features
+- Support for transparency on iOS
+
+
+### Fixes:
+- [RadListView IOS 10.1 crashing on scroll ](https://github.com/telerik/nativescript-ui-feedback/issues/1099)
+- [RadListView transparent background?](https://github.com/telerik/nativescript-ui-feedback/issues/88)
+- [RadListView: issue with setting backgroundColor to transparent for iOS](https://github.com/telerik/nativescript-ui-feedback/issues/196)
+- [RadListView: There is an "white" container behind the "itemTemplate" on iOS](https://github.com/telerik/nativescript-ui-feedback/issues/1041)
+- [RadListView discrepancy in backgroundColor between iOS and Android](https://github.com/telerik/nativescript-ui-feedback/issues/1093)
+
 
 ## 6.2.0 (2019, April 19)
 
