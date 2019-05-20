@@ -3,7 +3,7 @@
 ## 4.0.0 (2019, March, 11)
 
 ### Breaking changes:
-- [Add enumerations for string properties](https://github.com/NativeScript/nsplugins-internal/issues/169)
+- Add enumerations for string properties
 
 ## What is the current behavior?
 1. Enum-looking properties are difficult to use, because their type is string and they are hard to guess. Example:
@@ -33,8 +33,6 @@ monthViewStyle.selectionShapeColor = new Color("Red");
 calendar.minDate = new Date(2018, 2, 28);
 ```
 
-Related to [this issue](https://github.com/NativeScript/nsplugins-internal/issues/169).
-
 <!-- If this PR contains a breaking change, please describe the impact and migration path for existing applications below. -->
 
 ## &#x1F534; BREAKING CHANGES &#x1F534;
@@ -59,9 +57,9 @@ Migration steps:
 
 ### Features:
 
-- [Calendar(iOS): Events longer than 1 day are drawn like they are one day event](https://github.com/telerik/nativescript-ui-feedback/issues/373)
-- [Date spanning multiple days is only displayed on start date](https://github.com/telerik/nativescript-ui-feedback/issues/694)
-- [RadCalendar extends over the elements above it](https://github.com/telerik/nativescript-ui-feedback/issues/606)
+- [Calendar(iOS): Events longer than 1 day are drawn like they are one day event](https://github.com/NativeScript/nativescript-ui-feedback/issues/373)
+- [Date spanning multiple days is only displayed on start date](https://github.com/NativeScript/nativescript-ui-feedback/issues/694)
+- [RadCalendar extends over the elements above it](https://github.com/NativeScript/nativescript-ui-feedback/issues/606)
 
 ## 3.8.0 (2018, Aug, 16)
 
@@ -75,11 +73,11 @@ Migration steps:
 
 ### Features:
 
-- [DayView - Add a property to control whether the week is visible](https://github.com/telerik/nativescript-ui-feedback/issues/509)
+- [DayView - Add a property to control whether the week is visible](https://github.com/NativeScript/nativescript-ui-feedback/issues/509)
 
 ### Fixes:
 
-- [Unable to select particular day in Calendar Day view](https://github.com/telerik/nativescript-ui-feedback/issues/546)
+- [Unable to select particular day in Calendar Day view](https://github.com/NativeScript/nativescript-ui-feedback/issues/546)
 
 ## 3.6.1
 
@@ -95,20 +93,20 @@ Migration steps:
 - Add vue support
 ### Fixes:
 
-- [Day view calendar - events at the same time overlap each other](https://github.com/telerik/nativescript-ui-feedback/issues/414)
+- [Day view calendar - events at the same time overlap each other](https://github.com/NativeScript/nativescript-ui-feedback/issues/414)
 
 ## v3.5.2
 
 ### Fixes
- - [Calendar: Missing hours slots for appointment in calendar dayView](https://github.com/telerik/nativescript-ui-feedback/issues/590)
- - [Calendar: The property displayedDate is not correctly updated](https://github.com/telerik/nativescript-ui-feedback/issues/589)
+ - [Calendar: Missing hours slots for appointment in calendar dayView](https://github.com/NativeScript/nativescript-ui-feedback/issues/590)
+ - [Calendar: The property displayedDate is not correctly updated](https://github.com/NativeScript/nativescript-ui-feedback/issues/589)
 
 ## v3.5.1
 
 ### Fixes:
- - [RadCalendar: Error thrown once I click on a date using viewMode="Year" and selectionMode="Range"](https://github.com/telerik/nativescript-ui-feedback/issues/494)
+ - [RadCalendar: Error thrown once I click on a date using viewMode="Year" and selectionMode="Range"](https://github.com/NativeScript/nativescript-ui-feedback/issues/494)
 
 
 ## v3.5.0
 
-Initial Release. Matches the state from NativeScript Pro UI [v3.4.0](http://docs.telerik.com/devtools/nativescript-ui/release-notes#release-notes-340).
+Initial Release. Matches the state from NativeScript Pro UI v3.4.0.

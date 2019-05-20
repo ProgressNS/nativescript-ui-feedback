@@ -4,7 +4,7 @@
 ### 4.0.0 (2019, March 14)
 
 #### Breaking changes:
- - [Add enumerations for string properties](https://github.com/NativeScript/nsplugins-internal/issues/169)
+ - Add enumerations for string properties
 
 
 
@@ -28,8 +28,6 @@ scaleStyle.ticksLayoutMode = GaugeScaleLayoutMode.Outer;
 scaleStyle.lineColor = new Color("SlateGray");
 ```
 
-Related to [this issue](https://github.com/NativeScript/nsplugins-internal/issues/169).
-
 <!-- If this PR contains a breaking change, please describe the impact and migration path for existing applications below. -->
 
 ## &#x1F534; BREAKING CHANGES &#x1F534;
@@ -49,14 +47,14 @@ Migration steps:
  - Support for NS 5.1
 
 #### Fixes:
-- [The colorFill parameter in the gauge plugin cannot be set by an observable for color ](https://github.com/telerik/nativescript-ui-feedback/issues/639)
-- [Can't change the color of indicator on iOS](https://github.com/telerik/nativescript-ui-feedback/issues/306)
+- [The colorFill parameter in the gauge plugin cannot be set by an observable for color ](https://github.com/NativeScript/nativescript-ui-feedback/issues/639)
+- [Can't change the color of indicator on iOS](https://github.com/NativeScript/nativescript-ui-feedback/issues/306)
 
 
 ## 3.7.1
 
 #### Fixes
-- [Gauge Customization demo displays different values](https://github.com/telerik/nativescript-ui-feedback/issues/795)
+- [Gauge Customization demo displays different values](https://github.com/NativeScript/nativescript-ui-feedback/issues/795)
 
 ## 3.7.0
 
@@ -70,4 +68,4 @@ Migration steps:
 
 ## v3.5.0
 
-Initial Release. Matches the state from NativeScript Pro UI [v3.4.0](http://docs.telerik.com/devtools/nativescript-ui/release-notes#release-notes-340).
+Initial Release. Matches the state from NativeScript Pro UI v3.4.0.
