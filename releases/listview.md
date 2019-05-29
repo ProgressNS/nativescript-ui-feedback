@@ -1,5 +1,10 @@
 # Releases
 
+## 6.3.1 (2019, May 29)
+
+### Fixes:
+- [Android RadListView filter while swiping animation crash](https://github.com/NativeScript/nativescript-ui-feedback/issues/1105)
+
 ## 6.3.0 (2019, May 8)
 
 ### Features
