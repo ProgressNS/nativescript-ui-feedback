@@ -1,4 +1,9 @@
 # Releases
+
+### v4.0.1 (2019, May 31)
+#### Fixes:
+- [Crash in iOS when using groups](https://github.com/NativeScript/nativescript-ui-feedback/issues/1095)
+
 ## v4.0.0 (2019, March 18)
 ### Fixes:
 - [RadDataform DatePicker returns a timestamp when started with value](https://github.com/NativeScript/nativescript-ui-feedback/issues/942)
