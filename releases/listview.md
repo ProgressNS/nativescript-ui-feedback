@@ -1,5 +1,10 @@
 # Releases
 
+## 6.3.2 (2019, June 4)
+
+### Fixes:
+- [[VUE] ObservableArray passes undefined to the itemTap event handler](https://github.com/NativeScript/nativescript-ui-feedback/issues/1141)
+
 ## 6.3.1 (2019, May 29)
 
 ### Fixes:
