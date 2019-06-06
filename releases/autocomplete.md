@@ -1,5 +1,14 @@
 # Releases
 
+## 4.1.0 (2019, June 5)
+
+### Features:
+ - [Allow passing customized Token Model](https://github.com/NativeScript/nativescript-ui-feedback/issues/65)
+
+### Fixes:
+ - [Calling js method onCreateViewHolder failed (Error: Expecting a valid View instance)](https://github.com/NativeScript/nativescript-ui-feedback/issues/855)
+ - [Demo for autocomplete crash when suggest view doesn't close on navigate back](https://github.com/NativeScript/nativescript-ui-feedback/issues/1037)
+
 ## 4.0.0 (2019, March, 11)
 
 ### Breaking changes:
