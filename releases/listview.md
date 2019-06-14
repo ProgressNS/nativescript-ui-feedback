@@ -1,5 +1,13 @@
 # Releases
 
+## 6.4.0 (2019, June 14)
+
+### Features
+- [Expose method similar to getFirstVisiblePosition() for Android (like isItemAtIndexVisible in ListView)](https://github.com/NativeScript/nativescript-ui-feedback/issues/28)
+
+### Fixes:
+- [Header gets renderes randomly on iOS when grouping is enabled](https://github.com/NativeScript/nativescript-ui-feedback/issues/1145)
+
 ## 6.3.2 (2019, June 4)
 
 ### Fixes:
