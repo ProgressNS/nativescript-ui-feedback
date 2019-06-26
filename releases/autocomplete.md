@@ -1,5 +1,10 @@
 # Releases
 
+## 4.1.1 (2019, June 26)
+
+### Fixes:
+ - [VUE: "token" property missing in autocomplete events)](https://github.com/NativeScript/nativescript-ui-feedback/issues/1153)
+
 ## 4.1.0 (2019, June 5)
 
 ### Features:
