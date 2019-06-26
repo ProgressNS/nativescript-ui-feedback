@@ -1,5 +1,10 @@
 # Releases
 
+## 6.4.1 (2019, June 26)
+
+### Fixes
+- [Memory optimizations related to #1128](https://github.com/NativeScript/nativescript-ui-feedback/issues/1128)
+
 ## 6.4.0 (2019, June 14)
 
 ### Features
