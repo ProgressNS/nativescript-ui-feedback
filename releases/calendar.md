@@ -1,5 +1,16 @@
 # Releases
 
+## 4.1.0 (2019, June, 26)
+
+### Features:
+
+- [Allow custom events](https://github.com/NativeScript/nativescript-ui-feedback/issues/418)
+
+### Fixes:
+
+- [Cannot select multiple dates on iOS](https://github.com/NativeScript/nativescript-ui-feedback/issues/728)
+- [Broken selection and alignment](https://github.com/NativeScript/nativescript-ui-feedback/issues/1065)
+
 ## 4.0.0 (2019, March, 11)
 
 ### Breaking changes:
