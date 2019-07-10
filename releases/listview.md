@@ -4,6 +4,7 @@
 
 ### Fixes
 - [Memory leak](https://github.com/NativeScript/nativescript-ui-feedback/issues/1128)
+- [RadListView crash on change to grid layout without `itemHeight`](https://github.com/NativeScript/nativescript-ui-feedback/issues/1097)
 - [Crashes on rotate orientation, on iOS, Vue (when using item layout Grid or Staggered](https://github.com/NativeScript/nativescript-ui-feedback/issues/1056)
 
 ## 6.4.1 (2019, June 26)
