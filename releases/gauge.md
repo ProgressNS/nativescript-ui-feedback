@@ -1,6 +1,12 @@
 # Releases
 
 
+### 5.0.0 (2019, July, 17)
+#### Features:
+- Support for AndroidX
+- Support for NS 6.0
+
+
 ### 4.0.0 (2019, March 14)
 
 #### Breaking changes:
