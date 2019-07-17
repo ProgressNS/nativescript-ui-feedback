@@ -1,5 +1,11 @@
 # Releases
 
+
+## 5.0.0 (2019, July, 17)
+### Features:
+- Support for AndroidX
+- Support for NS 6.0
+
 ### v4.0.1 (2019, May 31)
 #### Fixes:
 - [Crash in iOS when using groups](https://github.com/NativeScript/nativescript-ui-feedback/issues/1095)
