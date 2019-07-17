@@ -1,5 +1,17 @@
 # Releases
 
+## 7.0.1 (2019, July, 17)
+### Fixes:
+- [[iOS] Setting swipe template using `tkListItemSwipeTemplate` causes the RadListView to be retained in memory after GC](https://github.com/NativeScript/nativescript-ui-feedback/issues/1167)
+- [IOS RadListView ng-template with custom component (+ ListViewGridLayout ) crash the app](https://github.com/NativeScript/nativescript-ui-feedback/issues/1042)
+
+
+## 7.0.0 (2019, July, 17)
+### Features:
+- Support for AndroidX
+- Support for NS 6.0
+
+
 ## 6.4.2 (2019, July 2)
 
 ### Fixes
