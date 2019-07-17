@@ -1,5 +1,15 @@
 # Releases
 
+## 7.0.0 (2019, July, 17)
+### Features:
+- Support for AndroidX
+- Support for NS 6.0
+- [Support safe area in nested mode](https://github.com/NativeScript/nativescript-ui-feedback/issues/1058)
+### Fixes:
+ - [RadSideDrawer displays margin equal to the ActionBar's height when drawerLocation is set to Bottom in xml](https://github.com/NativeScript/nativescript-ui-feedback/issues/1094)
+ - [Nested RadSideDrawer have strange offset on both main content and drawer content](https://github.com/NativeScript/nativescript-ui-feedback/issues/956)
+ 
+
 ## 6.0.0 (2019, March, 12)
 
 ### Breaking changes
