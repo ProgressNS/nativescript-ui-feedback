@@ -1,5 +1,9 @@
 # Releases
 
+### 7.0.2 (2019, July, 29)
+#### Fixes:
+- [RadListView Swipe actions and items reorder do not work together in Android](https://github.com/NativeScript/nativescript-ui-feedback/issues/1184)
+
 ## 7.0.1 (2019, July, 17)
 ### Fixes:
 - [[iOS] Setting swipe template using `tkListItemSwipeTemplate` causes the RadListView to be retained in memory after GC](https://github.com/NativeScript/nativescript-ui-feedback/issues/1167)
