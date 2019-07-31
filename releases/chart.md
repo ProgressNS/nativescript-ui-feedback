@@ -1,5 +1,13 @@
 # Releases
 
+## 6.0.0 (2019, July, 31)
+### Breaking Changes
+
+- The attribute majorStep in the DateTimeContinuousAxis should bechanged to majorStepUnit.
+- [feat: adds majorStepUnit to DateTimeContinuousAxis](https://github.com/NativeScript/nativescript-ui-chart/pull/108)
+
+
+
 ## 5.0.0 (2019, July, 17)
 ### Features:
 - Support for AndroidX
