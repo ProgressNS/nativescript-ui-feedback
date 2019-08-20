@@ -1,6 +1,10 @@
 # Releases
 
 
+## 5.1.0 (2019, August, 20)
+### Feature:
+- [CSS Support](https://github.com/NativeScript/nsplugins-internal/issues/193)
+
 ## 5.0.0 (2019, July, 17)
 ### Features:
 - Support for AndroidX
