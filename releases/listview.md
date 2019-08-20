@@ -1,5 +1,9 @@
 # Releases
 
+## 7.0.3 (2019, August, 20)
+### Fixes:
+- [RadListView does not render rows on iOS 13 beta](https://github.com/NativeScript/nativescript-ui-feedback/issues/1160)
+
 ## 7.0.2 (2019, July, 29)
 ### Fixes:
 - [RadListView Swipe actions and items reorder do not work together in Android](https://github.com/NativeScript/nativescript-ui-feedback/issues/1184)
