@@ -3,7 +3,7 @@
 
 ## 5.1.0 (2019, September, 5)
 ### Features:
-- [CSS support](https://github.com/NativeScript/nativescript-ui-feedback/issues/1202)
+- [Apply different CSS for editors on focus](https://github.com/NativeScript/nativescript-ui-feedback/issues/1202)
 
 
 ## 5.0.0 (2019, July, 17)
