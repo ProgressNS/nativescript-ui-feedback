@@ -1,5 +1,11 @@
 # Releases
 
+## 7.0.5 (2019, September, 9)
+### Fixes:
+- [IOS: RadListView srollToIndex error](https://github.com/NativeScript/nativescript-ui-feedback/issues/1215)
+- [ (Probable fix) RadListView [Android] RecyclerView$ViewHolder.itemView on a null object reference](https://github.com/NativeScript/nativescript-ui-feedback/issues/1206)
+- [RadListView - Vue - Misleading validation message for props ](https://github.com/NativeScript/nativescript-ui-feedback/issues/1190)
+
 ## 7.0.3 (2019, August, 20)
 ### Fixes:
 - [RadListView does not render rows on iOS 13 beta](https://github.com/NativeScript/nativescript-ui-feedback/issues/1160)
