@@ -1,6 +1,12 @@
 # Releases
 
 
+## 5.1.1 (2019, September 19)
+
+### Fixes:
+ - [Autocomplete append mode trims or duplicates provided string](https://github.com/NativeScript/nativescript-ui-feedback/issues/1219)
+ - [The padding applied to AutoComplete is not correct](https://github.com/NativeScript/nativescript-ui-feedback/issues/1234)
+
 ## 5.1.0 (2019, August, 20)
 ### Feature:
 - [CSS Support](https://github.com/NativeScript/nsplugins-internal/issues/193)
