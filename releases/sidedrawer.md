@@ -1,5 +1,9 @@
 # Releases
 
+## 7.0.2 (2019, September, 19)
+### Fixes:
+ - [iOS: drawerTransition is ignored](https://github.com/NativeScript/nativescript-ui-feedback/issues/1225)
+
 ## 7.0.1 (2019, September, 2)
 ### Fixes:
  - [iOS: Toggle Status Bar break the page's layout when using the SideDrawer](https://github.com/NativeScript/nativescript-ui-feedback/issues/1189)
