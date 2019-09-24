@@ -1,7 +1,7 @@
 # Releases
 
-### v5.1.1 (2019, September 24)
-#### Fixes:
+## 5.1.1 (2019, September 24)
+### Fixes:
 - [Empty decimal editor keeps the last removed digit as value using Vue](https://github.com/NativeScript/nativescript-ui-feedback/issues/1220)
 
 
