@@ -1,5 +1,9 @@
 # Releases
 
+## 7.1.0 (2019, September, 25)
+### Features:
+- [Selection box and multi selection checkbox color could be styleable](https://github.com/NativeScript/nativescript-ui-listview/pull/251)
+
 ## 7.0.5 (2019, September, 9)
 ### Fixes:
 - [IOS: RadListView srollToIndex error](https://github.com/NativeScript/nativescript-ui-feedback/issues/1215)
