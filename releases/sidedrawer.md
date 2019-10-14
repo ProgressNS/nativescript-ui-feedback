@@ -1,5 +1,9 @@
 # Releases
 
+## 7.0.3 (2019, October, 14)
+### Fixes:
+ - [iOS: SideDrawer 7.0.2 breaks scrolling/tapping](https://github.com/NativeScript/nativescript-ui-feedback/issues/1262)
+
 ## 7.0.2 (2019, September, 19)
 ### Fixes:
  - [iOS: drawerTransition is ignored](https://github.com/NativeScript/nativescript-ui-feedback/issues/1225)
