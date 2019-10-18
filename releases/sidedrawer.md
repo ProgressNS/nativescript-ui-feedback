@@ -1,5 +1,9 @@
 # Releases
 
+## 7.0.4 (2019, October, 18)
+### Fixes:
+ - [Css element selectors do not work with uglify](https://github.com/NativeScript/nativescript-ui-feedback/issues/1275)
+
 ## 7.0.3 (2019, October, 14)
 ### Fixes:
  - [iOS: SideDrawer 7.0.2 breaks scrolling/tapping](https://github.com/NativeScript/nativescript-ui-feedback/issues/1262)
