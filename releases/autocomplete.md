@@ -1,5 +1,12 @@
 # Releases
 
+## 6.0.0 (2019, October 31)
+
+### Feature:
+ - Support for dark mode for iOS and Android
+
+### Breaking changes:
+ - Described in the [PR](https://github.com/NativeScript/nativescript-ui-autocomplete/pull/136)
 
 ## 5.1.1 (2019, September 19)
 

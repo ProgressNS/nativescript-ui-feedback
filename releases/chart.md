@@ -1,5 +1,13 @@
 # Releases
 
+## 7.0.0
+### Features:
+ - Support for Dark mode on iOS
+ - [CSS Styling](https://github.com/NativeScript/nativescript-ui-feedback/issues/1255)
+
+### Breaking changes:
+ - Described in this [PR](https://github.com/NativeScript/nativescript-ui-chart/pull/126)
+
 ## 6.0.0 (2019, July, 31)
 ### Breaking Changes
 

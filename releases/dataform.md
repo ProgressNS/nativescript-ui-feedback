@@ -1,5 +1,16 @@
 # Releases
 
+## 6.0.0 (2019, October, 31)
+
+### Features:
+- Support for dark mode for iOS and Android
+
+### Breaking changes:
+ - Described in the [PR](https://github.com/NativeScript/nativescript-ui-dataform/pull/138)
+
+### Fixes: 
+ - [[Dataform-iOS] App crashes/hangs after minimize/suspend and reopen](https://github.com/NativeScript/nativescript-ui-feedback/issues/1269)
+
 ## 5.1.1 (2019, September 24)
 ### Fixes:
 - [Empty decimal editor keeps the last removed digit as value using Vue](https://github.com/NativeScript/nativescript-ui-feedback/issues/1220)

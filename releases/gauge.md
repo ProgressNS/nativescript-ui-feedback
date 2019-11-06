@@ -1,5 +1,12 @@
 # Releases
 
+## 6.0.0
+
+### Features:
+ - Support for Dark mode in iOS and Android
+
+### Breaking changes:
+ - Described in this [PR](https://github.com/NativeScript/nativescript-ui-gauge/pull/80)
 
 ### 5.0.0 (2019, July, 17)
 #### Features:

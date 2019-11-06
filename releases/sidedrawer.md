@@ -1,4 +1,8 @@
 # Releases
+## 8.0.0
+### Features:
+ - Support for Dark mode in iOS and Android
+
 
 ## 7.0.4 (2019, October, 18)
 ### Fixes:

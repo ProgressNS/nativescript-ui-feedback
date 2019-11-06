@@ -1,5 +1,41 @@
 # Releases
 
+##8.0.0 (2019, November 05)
+
+### Features:
+ - Support for Dark mode in iOS and Android
+ - [Add a way to change the "selected" color](https://github.com/NativeScript/nativescript-ui-listview/pull/251)
+
+### Fixes:
+ - [ListView background is white on android](https://github.com/NativeScript/nativescript-ui-feedback/issues/1254)
+ - [No selection color if itemTemplate is set to 'transparent'](https://github.com/NativeScript/nativescript-ui-feedback/issues/1249)
+ - [Cannot read property 'setBackgroundColor' of undefined](https://github.com/NativeScript/nativescript-ui-feedback/issues/1274)
+
+## BREAKING CHANGES:
+### Vue
+- The use of `if="$selected`" inside an `v-template` is not longer available. The decision to change this was that first it is a possible bottle neck in performance of recreating multiple `itemTemplate` instances while selection is being made and second because this was an Vue flavour only functionality which is not available in Vanila and/or Angular flavour. For example this declaration will no longer work and should be removed:
+
+```
+<v-template if="$selected">
+  <StackLayout class="item p-10 selected" orientation="vertical">
+    <Label :text="item.name" class="nameLabel m-t-10"></Label>
+    <Label :text="item.description" class="descriptionLabel"></Label>
+  </StackLayout>
+</v-template>
+```
+
+#### Migration steps
+Remove the "selected" specific `v-template` and use the lightweight `itemSelectedBackgroundColor` property of `RadListView` in order to change the default color of the background when an item is selected.
+
+##### Design for "template-wide" changes based on selection 
+(**Not working** due to [this](https://github.com/nativescript-vue/nativescript-vue/issues/525) issue)
+In order to implement full custom "template" based on the "selected" state of the item, you will need to
+- Add a field to the data objects of the `items` property that will hold the "state" of the object 
+- Attach to the `itemSelected` and `itemDeselected` events and update that "state" field
+- Based on that "state" field set the `visibility`/`v-if` of elements in the `v-template`
+
+
+
 ## 7.1.0 (2019, September, 25)
 ### Features:
 - [Selection box and multi selection checkbox color could be styleable](https://github.com/NativeScript/nativescript-ui-listview/pull/251)

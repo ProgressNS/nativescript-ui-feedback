@@ -1,5 +1,13 @@
 # Releases
 
+### 6.0.0 (2019, October, 31)
+
+### Features:
+- Support dark mode for iOS and Android
+
+### Breaking changes:
+ - Described in the [PR](https://github.com/NativeScript/nativescript-ui-calendar/pull/110)
+
 ## 5.0.0 (2019, July, 17)
 ### Features:
 - Support for AndroidX
