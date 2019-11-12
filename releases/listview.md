@@ -1,6 +1,11 @@
 # Releases
 
-##8.0.0 (2019, November 05)
+## 8.0.1 (2019, November, 12)
+
+### Fixes:
+- [Css Element selectors don't work with uglify](https://github.com/NativeScript/nativescript-ui-feedback/issues/1297)
+
+## 8.0.0 (2019, November 05)
 
 ### Features:
  - Support for Dark mode in iOS and Android
