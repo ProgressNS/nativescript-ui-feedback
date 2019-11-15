@@ -6,7 +6,7 @@
  - [CSS Styling](https://github.com/NativeScript/nativescript-ui-feedback/issues/1255)
 
 ### Breaking changes:
- - Described in this [PR](https://github.com/NativeScript/nativescript-ui-chart/pull/126)
+ - The trackball popup window no longer has a gradient background
 
 ## 6.0.0 (2019, July, 31)
 ### Breaking Changes

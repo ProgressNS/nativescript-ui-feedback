@@ -6,7 +6,10 @@
 - Support dark mode for iOS and Android
 
 ### Breaking changes:
- - Described in the [PR](https://github.com/NativeScript/nativescript-ui-calendar/pull/110)
+
+#### iOS:
+- The background color of the list in which the "inline events" are rendered is changed to from `black` to `white` (in "Light mode")
+- Some colors are now lighter when running in "Light mode"
 
 ## 5.0.0 (2019, July, 17)
 ### Features:

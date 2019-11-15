@@ -5,11 +5,13 @@
 ### Features:
 - Support for dark mode for iOS and Android
 
-### Breaking changes:
- - Described in the [PR](https://github.com/NativeScript/nativescript-ui-dataform/pull/138)
-
 ### Fixes: 
  - [[Dataform-iOS] App crashes/hangs after minimize/suspend and reopen](https://github.com/NativeScript/nativescript-ui-feedback/issues/1269)
+
+### Breaking changes:
+
+#### iOS:
+ - Editor's `backgroundColor` is now transparent
 
 ## 5.1.1 (2019, September 24)
 ### Fixes:
