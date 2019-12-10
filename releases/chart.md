@@ -1,5 +1,9 @@
 # Releases
 
+## 7.1.0 (2019, December, 12)
+### Features:
+ - Support for Dark theme in Android 10
+ 
 ## 7.0.0
 ### Features:
  - Support for Dark mode on iOS
