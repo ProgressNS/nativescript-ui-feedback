@@ -1,5 +1,9 @@
 # Releases
 
+## 7.1.1 (2019, December, 18)
+### Fixes:
+ - Removed unneeded console.log statement
+ 
 ## 7.1.0 (2019, December, 12)
 ### Features:
  - Support for Dark theme in Android 10
