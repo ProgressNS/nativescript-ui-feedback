@@ -1,5 +1,10 @@
 # Releases
 
+## 6.0.1 (2020, March, 16)
+
+### Fixes:
+ - iOS Metadata generation for the framework fails when `CLANG_ENABLE_MODULES` is set to `YES`
+ 
 ## 6.0.0 (2019, October 31)
 
 ### Feature:
