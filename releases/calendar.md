@@ -1,5 +1,14 @@
 # Releases
 
+### 6.0.1 (2020, March, 16)
+
+### Fixes:
+- issue with Android dark mode support
+- issue with iOS build - missing TNSCore.TKTheme import
+
+### Features:
+- updated plugin typings
+
 ### 6.0.0 (2019, October, 31)
 
 ### Features:
