@@ -1,5 +1,10 @@
 # Releases
 
+### 6.1.0 (2020, March, 18)
+
+### Features:
+- add two new style properties for month view in iOS only - disabledCellStyle and anotherMonthCellStyle
+
 ### 6.0.1 (2020, March, 16)
 
 ### Fixes:
