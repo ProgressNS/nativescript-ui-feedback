@@ -3,9 +3,9 @@
 ## 8.1.0 (2020, March, 19)
 
 ### Features:
-- load-on-demand optimizations - speed improvements, prevent double load-on-demand. New method overload added to RadListView class - notifyAppendItemsOnDemandFinished(itemCount: number, disableLoadOnDemand: boolean).
-- iOS: rename TKDataSource class to TKRLVDataSource to prevent conflicts with iOS native class
-- iOS: add new property to liner listview layout - dynamicItemSize (boolean). Default value true. Set to false if the listview items have the same size (i.e. itemHeight/itemWidth property is set) to improve rendering speed.
+- load-on-demand optimizations - speed improvements, prevent double load-on-demand. New method overload added to `RadListView` class - `notifyAppendItemsOnDemandFinished(itemCount: number, disableLoadOnDemand: boolean)`.
+- iOS: rename `TKDataSource` class to `TKRLVDataSource` to prevent conflicts with iOS native class
+- iOS: add new property to liner listview layout - `dynamicItemSize` (boolean). Default value true. Set to false if the listview items have the same size (i.e. `itemHeight`/`itemWidth` property is set) to improve rendering speed.
 
 ### Fixes:
 - iOS: random crash if scrolling very fast with swipe actions enabled
