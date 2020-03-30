@@ -1,5 +1,10 @@
 # Releases
 
+## 8.1.1 (2020, March, 30)
+
+### Fixes:
+- android: fix issue with load on demand introduced in v8.1.0
+
 ## 8.1.0 (2020, March, 19)
 
 ### Features:
