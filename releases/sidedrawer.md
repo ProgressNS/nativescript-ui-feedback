@@ -1,8 +1,11 @@
 # Releases
+## 8.0.1 (2020, April, 1)
+### Fixes:
+ - iOS: Metadata generation for the framework fails when `CLANG_ENABLE_MODULES` is set to `YES`
+
 ## 8.0.0
 ### Features:
  - Support for Dark mode in iOS and Android
-
 
 ## 7.0.4 (2019, October, 18)
 ### Fixes:
