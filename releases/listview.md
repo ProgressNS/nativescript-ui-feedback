@@ -1,5 +1,11 @@
 # Releases
 
+## 8.1.2 (2020, April, 7)
+
+### Fixes:
+
+- android: `itemSelectingEvent` was sometimes not fired when trying to select the same item
+
 ## 8.1.1 (2020, March, 30)
 
 ### Fixes:
