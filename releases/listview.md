@@ -1,5 +1,13 @@
 # Releases
 
+## 8.2.0 (2020, May, 21)
+
+### Features:
+
+- ios/angular: leverage the `performBatchUpdatesCompletion` API of the native `UICollectionView` for adding/removing/updating items. 
+- ios/angular: new property for angular component `changeAnimationsEnabled` (boolean, default: true). Sets whether to animate batch item operations like adding, removing, updating items.
+- angular: new property for angular component `trackBy` (TrackByFunction). Similar to the `ngFor`'s `trackBy`, provides a mechanism for users to select match criteria for their item list
+
 ## 8.1.2 (2020, April, 7)
 
 ### Fixes:
