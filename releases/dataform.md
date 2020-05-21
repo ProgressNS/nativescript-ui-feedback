@@ -1,5 +1,11 @@
 # Releases
 
+## 6.1.0 (2020, May, 21)
+
+### Fixes:
+- some CSS styles are not applied to group properties
+- autocompleteinline editor does not accept all values (https://github.com/NativeScript/nativescript-ui-feedback/issues/985)
+
 ## 6.0.0 (2019, October, 31)
 
 ### Features:
