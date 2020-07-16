@@ -11,7 +11,7 @@
 In order to provide a fast response and issue resolution to all submitted issues we **require** that all issue reports are done with our predefined "issue template" that is automatically populated in the issue submission form. **Please fill** that template and **DO NOT DELETE IT**, that information is necessary and helpful to us in order to provide you with a timely response. If the "issue template" information is not provided **your issue may be closed immediately** without a response.
 
 ## Interested in Contributing to the Codebase?
-You have a feature request that is not part of our immediate plans? Or there is an urgent bug that you want to fix right away? Fear not, get in touch with us at nativescriptplugins@progress.com and tell us about your ideas. Contributions to the NativeScript UI are possible after signing a mutual NDA.
+You have a feature request that is not part of our immediate plans? Or there is an urgent bug that you want to fix right away? Fear not, get in touch with us at NativeScriptUI@progress.com and tell us about your ideas. Contributions to the NativeScript UI are possible after signing a mutual NDA.
 
 # Overview
 ## Distribution
